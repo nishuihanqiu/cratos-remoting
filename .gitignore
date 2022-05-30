@@ -1,0 +1,13 @@
+.idea
+.classpath
+.project
+*.iml
+target/
+.DS_Store
+.gitattributes
+.vscode
+*.jar
+*.war
+.mvn
+doc.md
+
